@@ -1,25 +1,30 @@
-# 0flyt ~ Fullstack developer. Sink. Flow. Repeat ~ the developer’s cycle.
-
-## 🛠️ Tech Stack & Skills
-
-**Languages:** C#, TypeScript, JavaScript, HTML, CSS  
-
-**Frontend:** Vue.js, React, React Native, Nuxt, Bootstrap, UX/UI Design  
-
-**Backend & Databases:** .NET, Node.js, SQL, PostgreSQL  
-
-**Development Practices & Tools:** Agile (Scrum), Fullstack Development, CI/CD, Docker, GNU/Linux, VS Code, Expo  
-
-**Testing & Quality Assurance:** TDD, BDD, Cypress
-
-## 🚀 Selected Projects
-- [TypeScript & Testing](https://github.com/0flyt/Typescript-and-Testing) – A team project focused on testing with Cypress and TypeScript. Utilizes TDD, BDD, and component testing, complemented by an automated CI pipeline with GitHub Actions.
-- [TODO App](https://github.com/0flyt/todo-app) – Cross-platform app (React Native & Expo) for managing tasks efficiently.
-
-## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/christopher-rydberg-997115279/)  
-- Email: christopher.rydberg@gmail.com
-- Portfolio: www.christopherrydberg.se
-
-## ⚡ Fun fact about me
-- I can be boring too.
+```
+                @@i@@ @                  christopherrydberg@chrryd Github Profile % ls
+          O,                             profile.cs    teckstack.md
+         [       f(I| @  W               
+       '                                 christopherrydberg@chrryd Github Profile % cat profile.cs
+      .  j@   ~@@@@@M/                   public class Profile
+         .  *@@@@@@@@@@@B      @         {
+           #@@@$$B#$$ba@@@w                  public string Name { get; } = "Christopher Rydberg";
+          b@@@B@W$Wpdbaa#@@J                 public string Location { get; } = "Gothenburg, Sweden";
+        !@@@@@@$w@@@@@@@@@M$   v$            public string Email { get; } = "christopher.rydberg@gmail.com";
+       /@@@@@@@@@@@@@f$(@@Wo                 public string LinkedIn { get; } = "christopherrydberg";
+    $  0     ~W@@$~        B0            
+       @@@c@d        @j @BW @@@              public void Introduce()
+       @.:   O @@ @@~@    fBM| B~            {
+     :@l.@@@@@ @@t a1@@@W@@ $@ "_                Console.WriteLine($"Hi, I'm {Name} from {Location}.");
+      ,@@@@@@ @@@mi @@@@@@ @$Wl o                Console.WriteLine("Fullstack developer in progress.");  
+      #@>i>;~@@@@@@@Bl>(x@@@dmxt             }
+       J@@@@@       "@@@@M11k^~           }
+       ]a~@@@#@@@ [B@$@M-t({1             christopherrydberg@chrryd GitHub Profile % cat techstack.md
+       #@Z   ;  dWm     r@B+<             
+       fB@@@@@@o[~Jd~rf@$Bw>              |  Category    |  Environment                             |
+        rrB@@$     m@@B@$Oi;              |--------------|------------------------------------------|
+          <@@@@@@@@@$@"/~ rY              |  Programming |  C#, JavaScript, TypeScript              |
+         $M@ '}W$Mw    j'wbz o            |  Framework   |  Vue.js, React, Nuxt, Vite               |
+   BmY@@@@@@@@      )ahC)o*tI] w          |  Backend     |  Node.js, Express                        |
+#pWXx@@ @@$C@@@@x(YhdmZ*pC  )+( <  z      |  Database    |  PostgreSQL, MongoDB                     |
+fp@@OM@@ @@@m@@$@@0_}{|>  ^.[c.-@[*@ _
+CtZvBpbh_@@@k$@BW$@W$;h/O*@QW, @`@M@ Y
+*/|h1a;0JW `1.r-]x |-`)YdC>  ;0I f<( "    christopherrydberg@chrryd GitHub Profile % exit
+```
